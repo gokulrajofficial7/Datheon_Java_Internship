@@ -1,0 +1,20 @@
+=================================================================
+          TEXT CORPUS ANALYSIS & WORD DISTRIBUTION REPORT         
+=================================================================
+Total Words (Tokens)      : 45
+Unique Words (Vocabulary) : 40
+Total Sentences           : 3
+Average Sentence Length   : 15.00 words
+-----------------------------------------------------------------
+TOP 10 KEYWORDS:
+ 1. and             : 3 occurrences
+ 2. software        : 2 occurrences
+ 3. data            : 2 occurrences
+ 4. modern          : 2 occurrences
+ 5. scalable        : 1 occurrences
+ 6. architectures   : 1 occurrences
+ 7. code            : 1 occurrences
+ 8. developers      : 1 occurrences
+ 9. records         : 1 occurrences
+10. learning        : 1 occurrences
+=================================================================
