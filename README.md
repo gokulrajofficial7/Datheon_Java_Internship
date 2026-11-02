@@ -74,5 +74,6 @@ cd Task5_VehicleRental_SOLID && javac *.java && java VehicleRentalApp
 
 ## 👨‍💻 Verification & Submission
 - **Developer:** Gokulraj A R
-- **Internship Organization:** Datheon ([https://www.datheon.in/](https://www.datheon.in/))
+- **GitHub Repository:** [gokulrajofficial7/Datheon_Java_Internship](https://github.com/gokulrajofficial7/Datheon_Java_Internship)
+- **Internship Organization:** [Datheon](https://www.datheon.in/)
 - **Track:** Java Programming Internship (Full Stack Architecture)
